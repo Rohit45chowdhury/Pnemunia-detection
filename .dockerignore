@@ -1,0 +1,24 @@
+venv/
+__pycache__/
+*.pyc
+.git
+
+# Data & models
+Dataset/
+model_weights/
+*.h5
+
+# Images
+*.jpg
+*.jpeg
+*.png
+
+# Notebooks
+*.ipynb
+
+# Frontend deps
+node_modules/
+frontend/node_modules/
+
+# Env files
+.env

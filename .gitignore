@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+Dataset/
+model_weights/
+node_modules/
+.env
